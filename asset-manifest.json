@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/tasco/static/css/main.cdf92c9e.css",
+    "main.js": "/tasco/static/js/main.f130efda.js",
+    "static/media/image-yellow.webp": "/tasco/static/media/image-yellow.5146a9db9532275c98c9.webp",
+    "static/media/esim.webp": "/tasco/static/media/esim.96dc982931f8eea0a98d.webp",
+    "static/media/num.webp": "/tasco/static/media/num.c6b6851c7eae2b3c9a7c.webp",
+    "static/media/home.webp": "/tasco/static/media/home.87852ed27cf9077615bf.webp",
+    "static/media/logo.webp": "/tasco/static/media/logo.6a6efaaf92a557b9b374.webp",
+    "index.html": "/tasco/index.html",
+    "main.cdf92c9e.css.map": "/tasco/static/css/main.cdf92c9e.css.map",
+    "main.f130efda.js.map": "/tasco/static/js/main.f130efda.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdf92c9e.css",
+    "static/js/main.f130efda.js"
+  ]
+}
